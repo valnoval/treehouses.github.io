@@ -61,3 +61,5 @@ A more complex navigation example:
 [Menu Item 2](pages/item2.md)
 
 [Menu Item 3](pages/item3.md) -->
+
+Promote Multi-scale Template Matching using Python and OpenCV
